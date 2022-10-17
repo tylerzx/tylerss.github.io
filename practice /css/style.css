@@ -1,36 +1,12 @@
-header {
-background-color:aqua
-width:aqua  96%;
-height: 100px;
-margin: 10px;
-
+li {
+    list-style: none;
 }
 
-nav{
-    float: left;
-    background-color:aquamarine
-    width: 15%;
-    height:  600px;
-    magin:10 px;
-    padding: 10px;
-}    
+a{
+    text-decoration: none;
+} 
+    
 
 
 
-section{
-    float: left;
-    background-color:blue;
-    height: 600px;
-    margin; 10 px;
-    padding: 10 px;
-    width:75%
-}
 
-footer{
-    float: left;
-    background-color: blueviolet;
-    margin: 10 px;
-    padding: 10px;
-    height: 100px;
-    width: 95%;
-}

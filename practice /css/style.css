@@ -1,0 +1,36 @@
+header {
+background-color:aqua
+width:aqua  96%;
+height: 100px;
+margin: 10px;
+
+}
+
+nav{
+    float: left;
+    background-color:aquamarine
+    width: 15%;
+    height:  600px;
+    magin:10 px;
+    padding: 10px;
+}    
+
+
+
+section{
+    float: left;
+    background-color:blue;
+    height: 600px;
+    margin; 10 px;
+    padding: 10 px;
+    width:75%
+}
+
+footer{
+    float: left;
+    background-color: blueviolet;
+    margin: 10 px;
+    padding: 10px;
+    height: 100px;
+    width: 95%;
+}

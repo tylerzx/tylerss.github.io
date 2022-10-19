@@ -1,0 +1,39 @@
+a{
+    background-color:chartreuse;
+    list-style: none;
+}
+
+#navbar1{
+    background-color:aqua;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    background-color:blue;
+}    
+    
+#navbar3{
+    background-color:aquamarine;
+}
+#navbar2{
+    background-color:blueviolet;
+
+}
+li{
+    display: inline;
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+

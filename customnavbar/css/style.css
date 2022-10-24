@@ -1,0 +1,52 @@
+ul{
+   display: flex;
+   padding: 10px;
+   justify-content: flex-end;
+    
+}
+
+li {
+   padding: 10px;
+   list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    background-color:blue;
+    padding: 10px;
+}    
+    
+nav {
+    background-color:aquamarine;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#home{
+    margin-right: auto;
+}
+
+li{
+    display: inline;
+    list-style: none;
+}
+ @media only screen and (max-width: 768px) {
+ ul {
+      flex-direction: column;
+ }
+ 
+}
+   
+
+
+
+
+
+
+
+
+
+

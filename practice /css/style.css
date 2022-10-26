@@ -1,12 +1,14 @@
-li {
-    list-style: none;
-}
+table {
+width: 400px;
+}   
 
-a{
-    text-decoration: none;
-} 
-    
+th {
+    text-align: left;
+}    
+table, th, td {
+  border: 1px solid black;
+}  
 
-
-
-
+tr:nth-child(odd) {
+   background-color:aqua  
+}  

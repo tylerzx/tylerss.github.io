@@ -1,0 +1,14 @@
+table {
+width: 400px;
+}   
+
+th {
+    text-align: left;
+}    
+table, th, td {
+  border: 1px solid black;
+}  
+
+tr:nth-child(odd) {
+   background-color:aqua  
+}  

@@ -1,6 +1,6 @@
 .site-hero {
     height: 80hv;
-    background-image: url("https://previews.123rf.com/images/marilyna/marilyna1807/marilyna180700100/105018964-health-food-selection-with-fresh-vegetables-fruit-herbs-spices-grains-seeds-himalayan-salt-and-olive.jpg");
+    background-image: url("../assets/branding/wood_bkgrnd.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -11,7 +11,7 @@
 }    
 
 .hero-text {
-    color:gold
+    color:fuchsia
 
 }    
 .column-wrapper {

@@ -10,11 +10,11 @@ body, main, footer, nav, header {
   font-family: "Open Sans";
 }
 a {
-  color:#e1a177;
+  color:#192e55;
 }
 .btn {
   background-color: #f8feff;
-  border:2px solid #e1a177;
+  border:2px solid #2e4c83;
   border-radius: 0px;
 }
 
@@ -22,8 +22,8 @@ a {
 
 body {
   margin:0;
-  color:#e1a177;
-  border-color: #e1a177;
+  color:#2e4c83;
+  border-color: #2e4c83;
 }
 
 header {
@@ -33,7 +33,7 @@ header {
   justify-content: space-between;
   padding:50px;
   background-color:#f8feff;
-  color:#e1a177
+  color:#2e4c83;
 }
 .header-top{
   width:15%;
@@ -60,7 +60,7 @@ nav li {
   list-style-type: none;
 }
 nav a {
-  color:#e1a177;
+  color:#192e55;
   text-decoration: none;
   padding:5px 20px;
   padding-left:2.5px;
@@ -71,7 +71,7 @@ nav a::before {
   padding-right:5px;
 }
 nav a:hover {
-  background-color: #e1a177;
+  background-color: #192e55;
   color:#f8feff;
 }
 .nav-contact {
@@ -82,7 +82,7 @@ nav a:hover {
   width:33%;
 }
 .nav-contact:hover {
-  color:#e1a177;
+  color:#192e55;
 }
 .nav-contact ion-icon{
   margin-right:10px;
@@ -109,7 +109,7 @@ nav a:hover {
   margin:0px;
 }
 #site_logo:hover,.site_title:hover,.site_quote:hover {
-  color: #e1a177;
+  color:#192e55;
   cursor:pointer;
 }
 
@@ -123,9 +123,9 @@ main {
 
 .content {
   background-color: #f8feff;
-  border:2px solid #e1a177;
+  border:2px solid #2e4c83;
   padding:15px;
-  color:#e1a177;
+  color:#2e4c83;
   box-shadow: 2px 3px 1px 1px rgba(0,0,0,0.3);
   margin:50px 0px;
 }
@@ -157,12 +157,12 @@ main {
 .footer-hat {
   height:30px;
   background-color: #f8feff;
-  border-top:2px solid #e1a177;
+  border-top:2px solid #2e4c83;
 }
 footer {
   background-color: #f8feff;
   padding:25px;
-  border-top:2px dashed #e1a177;
+  border-top:2px dashed #2e4c83;
   box-sizing: border-box;
   display:flex;
 }
@@ -193,7 +193,7 @@ footer h4 {
 .footer-feet {
   background-color: #f8feff;
   height:40px;
-  border-top: 2px dashed #e1a177;
+  border-top: 2px dashed #2e4c83;
 
   display:flex;
   align-items: center;

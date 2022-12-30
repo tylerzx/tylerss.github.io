@@ -1,0 +1,12 @@
+body{
+    padding: 10px;
+}
+.wrapper{
+    display: grid;
+     grid-template-columns: repeat(auto-fit,minax(400px, 1fr));
+     grid-gap: 5px;
+}
+img{
+    width: 250px;
+
+}
